@@ -4,7 +4,7 @@ Changelog
 2.6.26 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Nothing changed yet. this is still true
 
 
 2.6.25 (2020-11-10)
